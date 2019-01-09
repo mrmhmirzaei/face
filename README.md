@@ -8,7 +8,7 @@ Instal opencv and dependencies
 ```
 
 # How to use ?
-1- Create folder and name it 'images'
+1- Create folder and name it 'images'\n
 2- Create folder with your name
 3- Put your images on your folder
 ```
