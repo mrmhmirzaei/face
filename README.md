@@ -4,7 +4,7 @@ Face detection and recognition with openCV
 # Installation
 Instal opencv and dependencies
 ```
- pip install python-opencv opencv-contrib-python numpy
+pip install opencv-python opencv-contrib-python numpy
 ```
 
 # How to use ?
